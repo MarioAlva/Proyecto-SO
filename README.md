@@ -1,6 +1,6 @@
 # ProyectoSO
 
-##    Version 1
+##        Version 1
           generada por Mario
           Regenerada por Mario
           verificada por Mario
