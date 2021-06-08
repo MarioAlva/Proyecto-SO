@@ -1,22 +1,22 @@
-#ProyectoSO
-Version 2 generada por David
+# ProyectoSO
+Version 2 generada por Mario
 
-Version 2 Regenerada por Cristina
+Version 2 Regenerada por Mario
 
-Versión 2 verificada por Polet
+Versión 2 verificada por Mario
 
-Version 3 generada por Polet
+Version 3 generada por Mario
 
-Version 3 verificada por Cristina
+Version 3 verificada por Mario
 
-Versión 4 generada por David
+Versión 4 generada por Mario
 
-Versión 4 verificada por Polet
+Versión 4 verificada por Mario
 
-Version 5 generada por Cristina
+Version 5 generada por Mario
 
-Versión 5 verificada por David
+Versión 5 verificada por Mario
 
-Version Final generada por Polet
+Version Final generada por Mario
 
-Version Final verificada por Cristina
+Version Final verificada por Mario
