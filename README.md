@@ -1,11 +1,9 @@
 # ProyectoSO
 
-## Version 1
-Version 2 generada por Mario
-
-Version 2 Regenerada por Mario
-
-Versión 2 verificada por Mario
+##    Version 1
+          generada por Mario
+          Regenerada por Mario
+          verificada por Mario
 
 Version 3 generada por Mario
 
