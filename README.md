@@ -1,24 +1,24 @@
 ##        Version 1
-          generada por Mario
+          Generada por Mario
           Regenerada por Mario
           verificada por Mario
 ##        Version 2
-          generada por Mario
+          Generada por Mario
           Regenerada por Mario
           verificada por Mario
 ##        Version 3
-          generada por Mario
+          Generada por Mario
           Regenerada por Mario
           verificada por Mario
 ##        Version 4
-          generada por Mario
+          Generada por Mario
           Regenerada por Mario
           verificada por Mario
 ##        Version 5
-          generada por Mario
+          Generada por Mario
           Regenerada por Mario
           verificada por Mario
 ##        Version Final
-          generada por Mario
+          Generada por Mario
           Regenerada por Mario
           verificada por Mario
